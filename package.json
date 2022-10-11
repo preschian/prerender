@@ -28,7 +28,7 @@
     "test": "mocha"
   },
   "engines": {
-    "node": ">=8.9"
+    "node": "^16"
   },
   "private": true
 }
